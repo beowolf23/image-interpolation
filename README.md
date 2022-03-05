@@ -1,8 +1,6 @@
 ﻿<h3> ====== Interpolare pe imagini ===== </h3>
 <h4>Autor : Ciocan-Merauta Mihai
 <h4> Grupa : 314CC
-<h4> Timp estimat de rezolvare :  ore </h4>
-
 
 <h3> 1. Interpolare Nearest Neighbour </h4>
 =
@@ -82,9 +80,5 @@
 + Principalele probleme intalnite in rezolvarea task-urilor au fost legate de debugarea codului. Am avut multe situatii in care apelam functii incepand cu index-ul 0, ceea ce nu este corect. 
 + De asemenea am mai avut probleme cu testele, in care sunt inversate anumite valori, spre exemplu in cazul calcularii derivatelor in precalc. Ix foloseste derivata in functie de y si Iy in functie de x pentru ca asa sunt facute testele. 
 + In plus, alte probleme au mai aparut din cauza checker-ului care dureaza foarte mult sa testeze (ceea ce este normal pentru teste foarte mari), dar care in anumite situatii a blocat command line-ul Octave-ului si nu am mai putut face altceva decat sa repornesc aplicatia.
-	
-<h3>5. Alte ganduri </h4>
-=
 
-+ Aceasta tema a fost una care m-a ajutat foarte mult sa inteleg interpolarea si domeniile sale de aplicabilitate. Nu a fost o tema foarte mare, ceea ce este un plus, mai ales ca a fost si una foarte interesanta si din care am putut invata multe lucruri. Pentru acest lucru si pentru timpul mare disponibil in care putem rezolva tema, a big thumbs up pentru echipa de teme. 
 
