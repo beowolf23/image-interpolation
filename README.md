@@ -1,7 +1,7 @@
-﻿<h3> ====== Tema Metode Numerice ===== </h3>
+﻿<h3> ====== Interpolare pe imagini ===== </h3>
 <h4>Autor : Ciocan-Merauta Mihai
 <h4> Grupa : 314CC
-<h4> Timp estimat de rezolvare : 8 ore </h4>
+<h4> Timp estimat de rezolvare :  ore </h4>
 
 
 <h3> 1. Interpolare Nearest Neighbour </h4>
